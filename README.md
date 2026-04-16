@@ -2,36 +2,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rodrixs2005&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
-## 🧠 Programing Languages
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,java,ocaml,py)](https://skillicons.dev)
+# 🚀 My Tech Stack
 
-## 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+## 💻 Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,ocaml,bash,js,html,css)](https://skillicons.dev)
 
-## ⚙️ Backend / Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+## 🛠️ Frameworks & Development
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flutter,dart,androidstudio,godot,unity,gtk)](https://skillicons.dev)
 
-## 📱 Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter)](https://skillicons.dev)
+## 🧪 Data Science & Databases
+[![My Skills](https://skillicons.dev/icons?i=matlab,r,mysql,anaconda)](https://skillicons.dev)
 
-## 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## ☁️ DevOps & Systems
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,vercel,arch,linux,ubuntu,windows)](https://skillicons.dev)
 
-## ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,vercel)](https://skillicons.dev)
-
-## 🛠️ Development tools
-[![My Skills](https://skillicons.dev/icons?i=anaconda,clion,git,github,idea,visualstudio,vscode,vscodium)](https://skillicons.dev)
-
-## 🎨 Design
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,latex,md,ps)](https://skillicons.dev)
-
-## 🎮 Videogames / Graphic dev
-[![My Skills](https://skillicons.dev/icons?i=godot,gtk,unity)](https://skillicons.dev)
-
-## 💻 Operative Systems
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,windows)](https://skillicons.dev)
-
-## 🧪 Science / Data
-[![My Skills](https://skillicons.dev/icons?i=matlab,r)](https://skillicons.dev)
-
+## 🧰 Tools & Design
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vscodium,visualstudio,idea,clion,figma,ai,ps,latex,md)](https://skillicons.dev)
