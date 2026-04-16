@@ -1,4 +1,5 @@
-<img width="264" height="200" alt="200" src="https://github.com/user-attachments/assets/4b443bfe-ffdb-43e9-a86e-cd50fc83422b" />
+<img width="82" height="64" alt="cecesrhaccc1-on-tiktok-cecesrhaccc1" src="https://github.com/user-attachments/assets/cb50e0cd-6c7a-43d2-8571-a2c57e66ceca" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rodrixs2005&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
