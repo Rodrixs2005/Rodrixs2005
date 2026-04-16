@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## ⚙️ Backend / Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 
 ## 📱 Mobile Development
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter)](https://skillicons.dev)
@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ## ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,fastapi,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,vercel)](https://skillicons.dev)
 
 ## 🛠️ Development tools
 [![My Skills](https://skillicons.dev/icons?i=anaconda,clion,git,github,idea,visualstudio,vscode,vscodium)](https://skillicons.dev)
@@ -33,7 +33,5 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,windows)](https://skillicons.dev)
 
 ## 🧪 Science / Data
-[![My Skills](https://skillicons.dev/icons?i=mathlab,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,r)](https://skillicons.dev)
 
-## 🧩 Other
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)](https://skillicons.dev)
