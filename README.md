@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/8d25ff4f-f148-4d19-8e4c-34aa701add1b" />
+<img width="264" height="200" alt="200" src="https://github.com/user-attachments/assets/4b443bfe-ffdb-43e9-a86e-cd50fc83422b" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rodrixs2005&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
