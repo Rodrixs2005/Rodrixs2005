@@ -8,7 +8,7 @@
 # 🚀 My Tech Stack
 
 ## 💻 Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,ocaml,bash,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,ocaml,bash,js,html,css,kotlin)](https://skillicons.dev)
 
 ## 🛠️ Frameworks & Development
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flutter,dart,androidstudio,godot,unity,gtk)](https://skillicons.dev)
