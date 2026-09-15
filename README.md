@@ -1,7 +1,7 @@
 <img width="1000" height="335" alt="ezgif-2c289e5db40563b3" src="https://github.com/user-attachments/assets/0d3c8fa8-8446-4ce9-99d9-886a191c9e4e" />
 
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats?theme=dark"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 # 🚀 My Tech Stack
 
