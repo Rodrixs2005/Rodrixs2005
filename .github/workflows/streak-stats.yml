@@ -1,24 +1,33 @@
+```yaml
 name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Run every day at 03:00
+    - cron: "0 3 * * *"
+
+  repository_dispatch:
+    types:
+      - update-streak
+
+  workflow_dispatch:
+
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Run any time this file is modified
-  workflow_dispatch: # Run manually from the Actions tab
+      - ".github/workflows/streak-stats.yml"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v7
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&stroke=FFFFFF&ring=0064FF&fire=FF7000&currStreakNum=FF7000&sideNums=0064FF&currStreakLabel=FF7000&sideLabels=0064FF&dates=0064FF
           path: profile/streak.svg
@@ -28,6 +37,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
           git push
+```
