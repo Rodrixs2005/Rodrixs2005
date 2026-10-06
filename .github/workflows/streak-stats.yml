@@ -1,5 +1,4 @@
-```yaml
-name: Update streak stats
+yaml name: Update streak stats
 
 on:
   schedule:
@@ -47,4 +46,3 @@ jobs:
 
           git commit -m "Update streak stats"
           git push
-```
